@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCBUXQRHydQ=",
+  "success": true,
+  "projectFilePath": "/Users/a1234/Desktop/Studio Projects/Itransition/task3/task3.csproj",
+  "expectedPackageFiles": [
+    "/Users/a1234/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

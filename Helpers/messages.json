@@ -1,0 +1,37 @@
+{
+    "errors": {
+      "not_enough_dice": "Error: At least 3 dice configurations are required.",
+      "usage": "Usage: task3.exe <dice1> <dice2> <dice3> [<dice4> ...]",
+      "dice_format": "Each dice configuration should contain 6 comma-separated integers (e.g., 1,2,3,4,5,6).",
+      "unexpected_error": "An unexpected error occurred. Please try again.",
+      "invalid_dice_value": "Invalid value in dice configuration: {0}. Each value must be an integer.",
+      "die_invalid": "A die must have exactly 6 integer values.",
+      "invalid_choice": "Invalid choice. Please try again."
+    },
+    "game": {
+        "welcome": "Welcome to the Non-Transitive Dice Game!",
+        "determining_first_move": "Let's determine who goes first.",
+        "guess_prompt": "Guess the number (0 or 1):",
+        "user_first_move": "You make the first move.",
+        "computer_first_move": "The computer makes the first move.",
+        "choose_dice": "Choose your dice from the following options:",
+        "choose_dice_prompt": "Enter the number corresponding to your choice or \"?\" to get Winning chance for each die:",
+        "user_turn": "It's your turn. Roll the dice!",
+        "computer_turn": "It's the computer's turn.",
+        "add_user_value": "Add your number modulo 6 (0-5):",
+        "game_over": "Game over! Thank you for playing.",
+        "user_dice": "Your dice",
+        "computer_dice": "Computer's dice",
+        "user_roll": "Your roll: ",
+        "computer_roll": "Computer's roll: ",
+        "choose_throw": "Choose a number between 0 and 5 for your dice throw:",
+        "help_message": "Use the menu to select an option. Type '?' for help or 'X' to exit.",
+        "user_wins_round": "Congratulations! You win this round.",
+        "computer_wins_round": "The computer wins this round.",
+        "round_tie": "This round is a tie!"
+      },
+    "menu": {
+      "help": "Display help menu.",
+      "exit": "Exit the game."
+    }
+  }
